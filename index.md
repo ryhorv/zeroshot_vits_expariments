@@ -7,7 +7,7 @@ layout: default
     <tr>
         <th>Target text</th>
         <th>Reference Audio</th>
-        <th>Target Audio</th>
+        <th>Ground Truth</th>
         <th>Synthesized Audio</th>
     </tr>
     <tr>
@@ -46,6 +46,63 @@ layout: default
             </audio>
         </td>
     </tr>
+    <tr>
+        <td>some days after the king came into the island and sitting in the open air ordered augustine and his companions to come and hold a conference with him for he had taken precaution that they should not come to him in any house lest by so coming according to an ancient superstition</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/7274_6395_000062.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/7274_6395_000040.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_results/result_2.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>in this second volume as in the first i have given lady charlotte guest's translation exactly as she wrote it it would have been easy to make it a more faithful reproduction of the welsh by occasionally changing a word or by making a phrase more simple in diction</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/12421_12881_000003.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/12421_12881_000000.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_results/result_3.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+
+    <tr>
+        <td>so with face lit with delight and all gratitude i stay yet to press their hands and say thanks so fine a time</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/3367_3095_000000.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/3367_5503_000001.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_results/result_4.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+
+
 </table>
 
 <audio controls>
