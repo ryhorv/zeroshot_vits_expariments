@@ -233,7 +233,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -256,7 +256,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_1.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_1.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -279,7 +279,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_2.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_2.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -302,7 +302,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_3.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_3.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -325,7 +325,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_4.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_4.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -348,7 +348,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_5.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_5.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -371,7 +371,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_6.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_6.wav" type="audio/wav">
             </audio>
         </td>
         <td>
@@ -394,7 +394,7 @@ layout: default
         </td>
         <td>
             <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/librispeech_examples/truth_7.wav" type="audio/wav">
+                <source src="assets/audios/librispeech_examples/gt_7.wav" type="audio/wav">
             </audio>
         </td>
         <td>
