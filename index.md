@@ -8,6 +8,28 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ~[](assets/audios/reference_1.wav)
 
+<table>
+    <tr>
+        <th>Target text</th>
+        <th>Reference Audio</th>
+        <th>Target Audio</th>
+        <th>Synthesized Audio</th>
+    </tr>
+    <tr>
+        <td>but for all the greatest sins of the world so that the sinner return to thee with his whole heart as i do at this present wherefore have mercy on me o god whose property is always to have mercy have mercy upon me o lord for thy great mercy</td>
+        <td>
+            <audio controls>
+                <source src="assets/mls_examples/11279_12334_000025.flac" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls>
+                <source src="assets/mls_examples/11279_12334_000125.flac" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+</table>
+
 <audio controls>
 <source src="assets/audios/reference_1.wav" type="audio/wav">
 </audio>
