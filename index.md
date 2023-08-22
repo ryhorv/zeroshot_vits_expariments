@@ -2,11 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-~[](assets/audios/reference_1.wav)
 
 <table>
     <tr>
@@ -29,7 +24,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
         </td>
         <td>
             <audio controls>
-                <source src="assets/audios/mls_results/0.wav" type="audio/wav">
+                <source src="assets/audios/mls_results/result_0.wav" type="audio/wav">
             </audio>
         </td>
     </tr>
