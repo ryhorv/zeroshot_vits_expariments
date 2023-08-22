@@ -1,11 +1,9 @@
 ---
 layout: default
+title: ZeroShot VITS TTS
 ---
 
 
-
-
-# ZeroShot VITS TTS
 
 ## Seen speakers from the MLS English Dataset
 
