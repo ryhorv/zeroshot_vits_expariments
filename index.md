@@ -13,18 +13,36 @@ layout: default
     <tr>
         <td>but for all the greatest sins of the world so that the sinner return to thee with his whole heart as i do at this present wherefore have mercy on me o god whose property is always to have mercy have mercy upon me o lord for thy great mercy</td>
         <td>
-            <audio>
+            <audio controls="controls" style="width: 160px;">
                 <source src="assets/audios/mls_examples/11279_12334_000025.flac" type="audio/flac">
             </audio>
         </td>
         <td>
-            <audio>
+            <audio controls="controls" style="width: 160px;">
                 <source src="assets/audios/mls_examples/11279_12334_000125.flac" type="audio/flac">
             </audio>
         </td>
         <td>
-            <audio>
+            <audio controls="controls" style="width: 160px;">
                 <source src="assets/audios/mls_results/result_0.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>a term of the peace for me shall be to touch your monarch's hand do you now convey in answer my message to your king i have a daughter whom the oracles of my father's shrine and many a celestial token alike forbid me to unite to one of our own nation</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/8259_7562_000001.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_examples/8259_7697_000051.flac" type="audio/flac">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/mls_results/result_1.wav" type="audio/wav">
             </audio>
         </td>
     </tr>
