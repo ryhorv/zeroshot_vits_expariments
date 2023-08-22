@@ -214,3 +214,198 @@ layout: default
 
 </table>
 
+## Unseed speakers from the LibriSpeech Dataset
+
+<table>
+    <tr>
+        <th>Target text</th>
+        <th>Reference Audio</th>
+        <th>Ground Truth</th>
+        <th>Synthesized Audio</th>
+        <th>NaturalSpeech 2</th>
+    </tr>
+    <tr>
+        <td>Indeed, there were only one or two strangers who could be admitted among the sisters without producing the same result.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>For if he's anywhere on the farm, we can send for him in a minute.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_1.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_1.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_1_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_1.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>Their piety would be like their names, like their faces, like their clothes, and it was idle for him to tell himself that their humble and contrite hearts it might be paid a far-richer tribute of devotion than his had ever been. A gift tenfold more acceptable than his elaborate adoration.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_2.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_2.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_2_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_2.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>The air and the earth are curiously mated and intermingled as if the one were the breath of the other.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_3.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_3.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_3_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_3.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>I had always known him to be restless in his manner, but on this particular occasion he was in such a state of uncontrollable agitation that it was clear something very unusual had occurred.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_4.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_4.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_4_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_4.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>His death in this conjuncture was a public misfortune.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_5.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_5.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_5_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_5.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>It is this that is of interest to theory of knowledge.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_6.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_6.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_6_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_6.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+    <tr>
+        <td>For a few miles, she followed the line hitherto presumably occupied by the coast of Algeria, but no land appeared to the south.</td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_7.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/truth_7.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/reference_7_result.wav" type="audio/wav">
+            </audio>
+        </td>
+        <td>
+            <audio controls="controls" style="width: 160px;">
+                <source src="assets/audios/librispeech_examples/ns_7.wav" type="audio/wav">
+            </audio>
+        </td>
+    </tr>
+</table>
