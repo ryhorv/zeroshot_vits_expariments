@@ -8,6 +8,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ~[](assets/audios/reference_1.wav)
 
+<audio controls>
+<source src="assets/audios/reference_1.wav" type="audio/wav">
+</audio>
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
