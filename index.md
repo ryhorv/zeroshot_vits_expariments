@@ -178,24 +178,6 @@ title: ZeroShot VITS TTS
         </td>
     </tr>
     <tr>
-        <td>as described in the issue of every new index but it was not limited to those times the correspondence of the suprema is full of letters and instructions showing the unremitting vigilance with which the work was carried on</td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_examples/10905_9620_000101.flac" type="audio/flac">
-            </audio>
-        </td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_examples/10905_9620_000014.flac" type="audio/flac">
-            </audio>
-        </td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_results/result_8.wav" type="audio/wav">
-            </audio>
-        </td>
-    </tr>
-    <tr>
         <td>early in april last dr coues supplied us with the material for a sketch of his life to which we are indebted chiefly for what this article contains he was born in portsmouth new hampshire september ninth eighteen forty two and was the son of samuel elliott coues and charlotte haven ladd coues</td>
         <td>
             <audio controls="controls" style="width: 160px;">
