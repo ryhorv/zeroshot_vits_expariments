@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-![](assets/audios/reference_1.wav)
+!audio[](assets/audios/reference_1.wav)
 
 There should be whitespace between paragraphs.
 
