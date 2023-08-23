@@ -124,24 +124,6 @@ title: ZeroShot VITS TTS
         </td>
     </tr>
     <tr>
-        <td>they would stay inside until i whispered that the larger creature had gone then they would leave me and return to their play pretty little sea horses with slender curving bodies often went sailing above me or would come to rest upon my back</td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_examples/2512_2052_000013.flac" type="audio/flac">
-            </audio>
-        </td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_examples/2512_2052_000000.flac" type="audio/flac">
-            </audio>
-        </td>
-        <td>
-            <audio controls="controls" style="width: 160px;">
-                <source src="assets/audios/mls_results/result_5.wav" type="audio/wav">
-            </audio>
-        </td>
-    </tr>
-    <tr>
         <td>oh never will i forget you my men that trusted me more my sons than your fathers for they could only see the little helpless babies and the young men in their pride they could not see you dying and hold you while you died</td>
         <td>
             <audio controls="controls" style="width: 160px;">
